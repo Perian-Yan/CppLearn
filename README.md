@@ -3,4 +3,4 @@ Some toy examples when I am learning C++
 
 Videos: [黑马程序员C++ | bilibili](https://www.bilibili.com/video/BV1et411b73Z/?spm_id_from=333.999.0.0&vd_source=c15057271a519c1b36b7cc925e8cd5df)
 
-Notes: [讲义](https://github.com/Blitzer207/C-Resource)
+Notes: [讲义 | github](https://github.com/Blitzer207/C-Resource)
